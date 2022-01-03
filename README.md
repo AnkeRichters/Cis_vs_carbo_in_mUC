@@ -1,4 +1,4 @@
-# Cis_vs_carbo_in_mUC
+# Cis_vs_carbo_in_mUC_cohort
 Cisplatin vs carboplatin chemotherapy in metastatic urothelial carcinoma patients
 [paper submitted]
 
